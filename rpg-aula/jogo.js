@@ -6,7 +6,7 @@ const prompt = require("prompt-sync")();
 // ===== CONTROLE DO JOGO =====
 let local = "vila";        // onde o herói está agora
 let jogando = true;        // o jogo continua enquanto for true
-const TESTE = false;       // true = a sorte fica fixa, para o roteiro de teste
+const TESTE = false;       // true = a sorte fica fixa, para o roteiro de 
 
 // ===== HERÓI =====
 let nome = prompt("Qual é o nome do seu herói? ");
